@@ -25,6 +25,7 @@ export const Navigation = () => {
             <a href="#interactive-primer" className="text-jet hover:text-cobalt transition-colors duration-300 ease-linear">PRIMER</a>
             <a href="#research-manuscript" className="text-jet hover:text-cobalt transition-colors duration-300 ease-linear">MANUSCRIPT</a>
             <a href="#jailbreak-evaluation-guide" className="text-jet hover:text-cobalt transition-colors duration-300 ease-linear">EVAL GUIDE</a>
+            <a href="#construct-validity" className="text-jet hover:text-cobalt transition-colors duration-300 ease-linear">VALIDITY</a>
             <a href="#research-compendium" className="text-jet hover:text-cobalt transition-colors duration-300 ease-linear">COMPENDIUM</a>
             <a href="#system" className="text-jet hover:text-cobalt transition-colors duration-300 ease-linear">SYSTEM</a>
             <a href="#why-different" className="text-jet hover:text-cobalt transition-colors duration-300 ease-linear">AUDIT</a>

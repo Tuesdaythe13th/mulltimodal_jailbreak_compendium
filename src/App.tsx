@@ -4,6 +4,7 @@ import { HeroSection } from './components/HeroSection';
 import { InteractivePrimer } from './components/InteractivePrimer';
 import { ResearchManuscript } from './components/ResearchManuscript';
 import { JailbreakAutoevaluatorGuide } from './components/JailbreakAutoevaluatorGuide';
+import { ConstructValidityFramework } from './components/ConstructValidityFramework';
 import { CompendiumDashboard } from './components/CompendiumDashboard';
 import { SystemGrid } from './components/SystemGrid';
 import { ComparisonList } from './components/ComparisonList';
@@ -25,6 +26,7 @@ export default function App() {
           <InteractivePrimer />
           <ResearchManuscript />
           <JailbreakAutoevaluatorGuide />
+          <ConstructValidityFramework />
           <CompendiumDashboard />
           <SystemGrid />
           <ComparisonList />
