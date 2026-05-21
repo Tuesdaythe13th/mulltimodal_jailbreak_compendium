@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cream: #E3E2DE;
+  --color-cobalt: #1351AA;
+  --color-jet: #141414;
+  --color-deepgray: #444343;
+  --color-graylabel: #7A7A7A;
+  --color-divider: #C7C7C7;
+
+  --font-sans: "General Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+@layer base {
+  body {
+    @apply bg-cream text-jet font-sans antialiased selection:bg-cobalt selection:text-cream;
+  }
+}
