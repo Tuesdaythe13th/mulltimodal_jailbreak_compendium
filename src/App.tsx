@@ -5,6 +5,7 @@ import { InteractivePrimer } from './components/InteractivePrimer';
 import { ResearchManuscript } from './components/ResearchManuscript';
 import { JailbreakAutoevaluatorGuide } from './components/JailbreakAutoevaluatorGuide';
 import { ConstructValidityFramework } from './components/ConstructValidityFramework';
+import { RiftTaxonomyMatrix } from './components/RiftTaxonomyMatrix';
 import { CompendiumDashboard } from './components/CompendiumDashboard';
 import { SystemGrid } from './components/SystemGrid';
 import { ComparisonList } from './components/ComparisonList';
@@ -27,6 +28,7 @@ export default function App() {
           <ResearchManuscript />
           <JailbreakAutoevaluatorGuide />
           <ConstructValidityFramework />
+          <RiftTaxonomyMatrix />
           <CompendiumDashboard />
           <SystemGrid />
           <ComparisonList />
